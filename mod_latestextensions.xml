@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension
     type="module"
-    ersion="3.0"
+    Version="2.5.5"
     method="upgrade"
     client="administrator">
     <name>Latest Extensions</name>
@@ -11,7 +11,7 @@
     <authorUrl>http://packtpub.com</authorUrl>
     <copyright>Copyright (C) 2013 Packt Publishing. All rights reserved.</copyright>
     <license>GNU GPL</license>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <description>Displays the most recently installed extensions.</description>
     <files>
         <filename module="mod_latestextensions">mod_latestextensions.php</filename>
