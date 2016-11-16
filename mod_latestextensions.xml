@@ -22,10 +22,10 @@
     <languages>
         <language tag="en-GB">language/en-GB/en-
 GB.mod_latestextensions.ini</language>
-<language tag="en-GB">language/es-ES/es-
+        <language tag="en-GB">language/es-ES/es-
 ES.mod_latestextensions.ini</language>
-    <help url="HELP_EXTENSIONS_MODULE_LATESTEXTENSIONS_URL"/>
     </languages>
+    <help url="HELP_EXTENSIONS_MODULE_LATESTEXTENSIONS_URL"/>
     <media destination="mod_latestextensions" folder="media">
         <filename>index.html</filename>
         <folder>css</folder>
