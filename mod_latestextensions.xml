@@ -19,6 +19,10 @@
             <filename>index.html</filename>
             <folder>tmpl</folder>
     </files>
+    <media destination="mod_latestextensions" folder="media">
+        <filename>index.html</filename>
+        <folder>css</folder>
+    </media>
     <config>
         <fields name="params">
             <fieldset name="basic">
